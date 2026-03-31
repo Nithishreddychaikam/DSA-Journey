@@ -6,7 +6,7 @@ I am Nithish Reddy, a 3rd year B.Tech CSE (AIDS) student.
 ## Current Situation
 - I have basic knowledge in Python and SQL
 - I have worked on projects using AI tools
-- I have solved only a few DSA problems independently
+- I am starting from scratch in DSA and committed to improving daily
 - I have to be consistent especially in solving problems
 
 ## My Problems
