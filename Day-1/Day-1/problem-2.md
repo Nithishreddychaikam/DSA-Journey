@@ -1,16 +1,16 @@
-# Problem 2: Contains Duplicate
+# Problem 2: Remove Element
 
 ## My Approach
-I used a set to store elements and checked if an element already exists.
+I used two pointers to overwrite elements not equal to val.
 
 ## Mistake
-Initially thought of using nested loops which is inefficient.
+Initially thought of deleting elements from the array.
 
 ## Final Logic
-If element is already in set, return True.
+Use pointer k to track position of valid elements.
 
 ## Pattern
-Hashing (Set)
+Two Pointers (Forward)
 
 ## Learning
-Set helps in fast lookup and avoids duplicates.
+No need to delete elements, just overwrite.
