@@ -1,0 +1,17 @@
+# Problem: Trapping Rain Water
+
+## My Approach
+Used two pointers to track left and right boundaries.
+
+## Mistake
+Initially tried brute force to check left and right max for every index.
+
+## Final Logic
+Water depends on minimum of left_max and right_max.
+Move the smaller side pointer.
+
+## Pattern
+Two Pointers (Boundary Tracking)
+
+## Learning
+Water is limited by the shorter boundary.
