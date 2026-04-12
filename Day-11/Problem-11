@@ -1,0 +1,19 @@
+# Problem: Reverse Words in a String
+
+## My Approach
+I split the string into words after removing extra spaces, then reversed the order of words.
+
+## Mistake
+Initially, I thought of reversing the entire string which reversed characters instead of words.
+
+## Final Logic
+First remove leading and trailing spaces using strip().
+Then split the string into words.
+Reverse the list of words and join them with a single space.
+
+## Pattern
+String Manipulation (Split → Reverse → Join)
+
+## Learning
+Handling spaces correctly is important in string problems.
+Reversing words is different from reversing characters.
